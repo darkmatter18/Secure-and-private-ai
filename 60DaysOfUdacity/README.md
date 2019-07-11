@@ -36,8 +36,10 @@
 
 - Organized a awesome meetup for #sg_kolkata members with @happycoder354 @iArunava @Biswajit Banerjee @Oudarjya Sen Sarma @Rohit @Debankur @Jeet @Md. Mahedi Hasan Riday @crazylazylife. Discussed about implementation of Federated Deep Learning, Encrypted Deep Learning, Kaggle and many more things
 
-![Meetup 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-10_meetup_1.png) ![Meetup 2](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-10_meetup_2.png)
+![Meetup 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-10_meetup_1.png)
+![Meetup 2](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-10_meetup_2.png)
 
 - Completed the Week 1 and week 2 of the 1st course of Python for everybody on coursera
     - [Link](https://www.coursera.org/learn/python?specialization=python)
+
 ![Py2e w1 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/py2e_w1_1.png) ![Py2e w1 2](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/py2e_w1_2.png) ![Py2e w2 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/py2e_w2_1.png) ![Py2e w2 2](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/py2e_w2_2.png) 
