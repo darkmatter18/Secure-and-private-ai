@@ -1,0 +1,31 @@
+Day 3:
+
+1. Write a Python script that can send mail automatically using oauth2
+2. Completed the MongoDB university M001 course chapter 2 https://university.mongodb.com/courses/M001/about
+3. Attended a meetup with @Biswajit Banerjee @happycoder354 @Abhishek Mondal @Abhishek Lalwani @Nishant Bharat @Joanna
+
+I encourage @happycoder354 @Nishant Bharat @Joanna @souvikb1812 @Biswajit Banerjee @Anna Scott @Labiba and @Oudarjya Sen Sarma  to join us and keep up their work.
+
+Day 4:
+1. Completed the Week 1 and week 2 of the 1st course of Python for everybody on coursera https://www.coursera.org/learn/python?specialization=python
+2. Completed the Lesson 3 "Introduction to Differential Privacy"
+3. Started the Week 1 of the 2nd Course of Mathematics of Machine Learning on coursera https://www.coursera.org/learn/multivariate-calculus-machine-learning
+4. Organize a virtual meetup with Subham Lal for #sg_kolkata on 10/07/2019 10:00 PM IST
+
+Day 5:
+:heavy_check_mark: Completed the 3rd week of MongoDB M001 course
+https://university.mongodb.com/courses/M001/about
+:heavy_check_mark: Read a Awesome article about Improving the Performance of a Neural Network
+https://towardsdatascience.com/how-to-increase-the-accuracy-of-a-neural-network-9f5d1c6f407d
+
+Day 6:
+:heavy_check_mark: Completed the week 1 of the 2nd course of Mathematics for Machine Learning Specialization on Coursera
+:heavy_check_mark: Read a Article about Pytorch Autograd
+https://towardsdatascience.com/pytorch-autograd-understanding-the-heart-of-pytorchs-magic-2686cd94ec95
+Today I encourage @happycoder354 @Biswajit Banerjee @Nishant Bharat @Anna Scott @Oudarjya Sen Sarma @Labiba @Rohit @Md. Mahedi Hasan Riday @Abhishek Lalwani @Abhishek Mondal @crazylazylife
+
+Day 7:
+
+1. Completed the Lesson 4 "Evaluating the Privacy of a Function"
+2. Completed the Week 3 of the 1st course of Python for everybody on coursera https://www.coursera.org/learn/python?specialization=python
+3. Read a Blog about "A Brief Introduction to Differential Privacy" https://medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b
