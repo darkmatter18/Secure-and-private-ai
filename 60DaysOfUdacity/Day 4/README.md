@@ -1,7 +1,7 @@
 # Day 4 #60daysofudacity
 
 - ✔ Completed the Lesson 3 "Introduction to Differential Privacy"
-    - ![Link](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/l3_done.png)
+    - [Link](#)
 
 - ✔ Organized a awesome meetup for #sg_kolkata members with @happycoder354 @iArunava @Biswajit Banerjee @Oudarjya Sen Sarma @Rohit @Debankur @Jeet @Md. Mahedi Hasan Riday @crazylazylife. Discussed about implementation of Federated Deep Learning, Encrypted Deep Learning, Kaggle and many more things
 

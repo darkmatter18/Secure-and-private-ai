@@ -11,6 +11,6 @@
 
 - ✔ I encourage @happycoder354 @Nishant Bharat @Joanna @souvikb1812 @Biswajit Banerjee @Anna Scott @Labiba and @Oudarjya Sen Sarma  to join us and keep up their work.
 
-![Meetup 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-08_meetup_1.png)
+![Meetup 1](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-08_meetup_1.jpg)
 
 ![Meetup 2](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/2019-07-08_meetup_2.png)
