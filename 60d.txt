@@ -42,3 +42,46 @@ Day 9:
 https://towardsdatascience.com/kaggle-for-beginners-getting-started-75decb43c0c0
 :heavy_check_mark: Planned a Physical meetup with @happycoder354 and @Biswajit Banerjee in Durgapur, WB, IN
 Today, I love to encourage @happycoder354 @Biswajit Banerjee @Anna Scott @Oudarjya Sen Sarma @Labiba @Nishant Bharat @Debankur @Md. Mahedi Hasan Riday @iArunava @Abhishek Lalwani @Rohit @Mohit @souvikb1812 @Joanna @crazylazylife @Abhishek Mondal @Carlo David
+
+Day 10:
+
+Completed the Week 4 and Week 5 of the 1st course of Python for everybody on coursera https://www.coursera.org/learn/python?specialization=python
+Created a githug Repo for my 60daysofudacity
+https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity
+
+Day 11:
+Completed the Week 6 and Week 7 of the 1st course of Python for everybody on coursera and *Completed the course* https://www.coursera.org/learn/python?specialization=python
+Completed the Final Exam of *MongoDB M001* and completed the course https://university.mongodb.com/courses/M001/about
+
+https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity
+
+Today, I love to encourage @happycoder354 @Biswajit Banerjee @Anna Scott @Oudarjya Sen Sarma @Labiba @Nishant Bharat @Debankur @Md. Mahedi Hasan Riday @iArunava @Abhishek Lalwani @Rohit @Mohit @souvikb1812 @Joanna @crazylazylife @Abhishek Mondal @Carlo David
+
+
+Day 12:
+
+Completed the Week 3 of the 2nd Course of Mathematics for Machine Learning Specialization on coursera
+https://www.coursera.org/learn/multivariate-calculus-machine-learning
+
+
+Day 13:
+
+
+Completed the Week 4 of the 2nd Course of Mathematics for Machine Learning Specialization on coursera
+https://www.coursera.org/learn/multivariate-calculus-machine-learning
+
+Started the Famous Machine Learning Course By Andrew NG in Coursera
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+Discussed about Kaggle with @Labiba and she helped me a lot. Thanks a lot
+
+Day 14:
+
+
+Completed the Week 5 of the 2nd Course of Mathematics for Machine Learning Specialization on coursera
+https://www.coursera.org/learn/multivariate-calculus-machine-learning
+
+Started and Completed the Week 1 and Week 2 of M220P: MongoDB for Python Developers
+https://university.mongodb.com/courses/M220P/about
+
+Completed the 
