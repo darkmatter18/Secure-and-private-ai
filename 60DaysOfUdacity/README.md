@@ -28,3 +28,17 @@
 13. [Day 13](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2013)
 
 14. [Day 14](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2014)
+
+15. [Day 15](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2015)
+
+16. [Day 16](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2016)
+
+17. [Day 17](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2017)
+
+18. [Day 18](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2018)
+
+19. [Day 19](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2019)
+
+20. [Day 20](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2020)
+
+21. [Day 21](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity/Day%2021)
