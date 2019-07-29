@@ -1,4 +1,4 @@
-# Day 14 #60daysofudacity
+# Day 15 #60daysofudacity
 
 - ✔ Started the Week 6 of the 2nd Course of Mathematics for Machine Learning Specialization on coursera
     - [Link](https://www.coursera.org/learn/multivariate-calculus-machine-learning)

@@ -1,4 +1,4 @@
-# Day 14 #60daysofudacity
+# Day 17 #60daysofudacity
 
 - ✔ Started the Week 4 and of Machine Learning Course By Andrew NG (Sanford University) in Coursera
     - [Link](https://www.coursera.org/learn/machine-learning/home/welcome)

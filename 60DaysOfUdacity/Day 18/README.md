@@ -1,9 +1,9 @@
-# Day 16 #60daysofudacity
+# Day 18 #60daysofudacity
 
-- ✔ Completed the Week 3 and of Machine Learning Course By Andrew NG (Sanford University) in Coursera
+- ✔ Completed the Week 4 and of Machine Learning Course By Andrew NG (Sanford University) in Coursera
     - [Link](https://www.coursera.org/learn/machine-learning/home/welcome)
 
-- ✔ Completed the Week 1 and Started the Week 2 of the 2nd Course of Python for everybody on coursera
+- ✔ Completed the Week 3 of the 2nd Course of Python for everybody on coursera
     - [Link](https://www.coursera.org/learn/multivariate-calculus-machine-learning)
 
 
