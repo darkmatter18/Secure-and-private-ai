@@ -7,8 +7,9 @@ This Scholarship challenge is powered by **Facebook AI**.
 ---
 
 ## Contents:
-1. [60 Days of Udacity]() - A challenge for 60 days, where I presented every day's job, I did and encourage my mates.
-2. [Intro to Pytorch]() - The Intro to Pytorch Repo contains all *Intro to Deep Learning using Pytorc file*
+1. [60 Days of Udacity](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/60DaysOfUdacity) - A challenge for 60 days, where I presented every day's job, I did and encourage my mates.
+2. [Intro to Pytorch](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/intro_to_pytorch) - The Intro to Pytorch Repo contains all *Intro to Deep Learning using Pytorc file*
+3. [Private AI](https://github.com/darkmatter18/Secure-and-private-ai/tree/master/private-ai) - The Differential and Fedarated Learning Related Files and Notebooks
 
 ---
 
