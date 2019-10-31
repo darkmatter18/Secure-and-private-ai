@@ -1,4 +1,4 @@
-![Banner](https://github.com/darkmatter18/Secure-and-private-ai/blob/master/60DaysOfUdacity/images/main_banner.png)
+![Banner](https://raw.githubusercontent.com/darkmatter18/Secure-and-private-ai/master/60DaysOfUdacity/images/main_banner.png)
 # Udactiy Secure and private AI scholarship
 
 This **Secure and private AI** reposatory contains all works, which I did during the Phase 1 of Udacity's *Secure and Private AI* Scholarship Challenge.
